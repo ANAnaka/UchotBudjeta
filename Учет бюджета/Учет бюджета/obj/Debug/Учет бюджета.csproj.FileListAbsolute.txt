@@ -1,0 +1,16 @@
+C:\Users\annak\source\repos\Учет бюджета\Учет бюджета\bin\Debug\Учет бюджета.exe.config
+C:\Users\annak\source\repos\Учет бюджета\Учет бюджета\bin\Debug\Учет бюджета.exe
+C:\Users\annak\source\repos\Учет бюджета\Учет бюджета\bin\Debug\Учет бюджета.pdb
+C:\Users\annak\source\repos\Учет бюджета\Учет бюджета\obj\Debug\Учет бюджета.csproj.AssemblyReference.cache
+C:\Users\annak\source\repos\Учет бюджета\Учет бюджета\obj\Debug\Учет бюджета.csproj.SuggestedBindingRedirects.cache
+C:\Users\annak\source\repos\Учет бюджета\Учет бюджета\obj\Debug\MainWindow.g.cs
+C:\Users\annak\source\repos\Учет бюджета\Учет бюджета\obj\Debug\App.g.cs
+C:\Users\annak\source\repos\Учет бюджета\Учет бюджета\obj\Debug\Учет бюджета_MarkupCompile.cache
+C:\Users\annak\source\repos\Учет бюджета\Учет бюджета\obj\Debug\Учет бюджета_MarkupCompile.lref
+C:\Users\annak\source\repos\Учет бюджета\Учет бюджета\obj\Debug\MainWindow.baml
+C:\Users\annak\source\repos\Учет бюджета\Учет бюджета\obj\Debug\Учет бюджета.g.resources
+C:\Users\annak\source\repos\Учет бюджета\Учет бюджета\obj\Debug\Учет_бюджета.Properties.Resources.resources
+C:\Users\annak\source\repos\Учет бюджета\Учет бюджета\obj\Debug\Учет бюджета.csproj.GenerateResource.cache
+C:\Users\annak\source\repos\Учет бюджета\Учет бюджета\obj\Debug\Учет бюджета.csproj.CoreCompileInputs.cache
+C:\Users\annak\source\repos\Учет бюджета\Учет бюджета\obj\Debug\Учет бюджета.exe
+C:\Users\annak\source\repos\Учет бюджета\Учет бюджета\obj\Debug\Учет бюджета.pdb
